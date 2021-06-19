@@ -1,6 +1,7 @@
 .top-container{
   background-color: #E4F9F5;
   padding-top: 150px;
+  position: relative;
 }
 
 .middle-container{
@@ -61,14 +62,14 @@ a:hover{
 
 .top-cloud{
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 10%;
+  right: 21%;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 270px;
-  bottom: 200px;
+  left: 22%;
+  bottom: 40%;
 }
 .web-img{
   width: 25%;
